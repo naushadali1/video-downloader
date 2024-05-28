@@ -1,0 +1,249 @@
+@media  (max-width:600px) {
+    
+#nav {
+    width: 100%;
+    height: 10vw;
+}
+
+.logo-heading {
+    font-size: 3vw;
+}
+
+.nav-text ul {
+   
+    gap: 1vw;
+}
+
+
+li {
+    font-size: 2.5vw;
+}
+
+
+#hero-section {
+    height: calc(65vh - 10vw);
+}
+
+.container {
+    gap: 4vw;
+}
+
+.container h1 {
+    font-size: 5vw;
+}
+
+.container .input-section button {
+    top: 8%;
+    padding: 1.5vw 1.6vw;
+    font-size: 1.5vw;
+}
+
+.input-section p {
+    left: 19%;
+    top: 17%;
+    font-size: 3vw;
+}
+
+.container button {
+    padding: 2.5vw 2.5vw;
+    font-size: 3vw;
+}
+
+
+#page-2 {
+    height: 65vh;
+    gap: 8vw;
+}
+
+#page-2 h1 {
+    font-size: 5vw;
+}
+
+.box-wraper {
+    display: flex;
+    gap: 3vw;
+}
+
+
+.box {
+    width: 26vw;
+    height: 40vw;
+}
+
+.box .circles-wraper {
+    display: flex;
+    gap: .02vw;
+}
+
+.box .circles {
+    width: 1.5vw;
+    height: 1.5vw;}
+
+.box input {
+    width: 90%;
+    padding: .2vw 0;
+}
+
+.box .mini-container {
+    border-top: 1px solid black;
+    padding: 1vw 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2vw;
+    overflow: hidden;
+
+}
+
+.box .mini-container .mini-box {
+    border: 1px solid black;
+    height: 7vw;
+    width: 5vw;
+    background-color: rgba(184, 184, 184, 0.23);
+}
+
+#box-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1vw;
+    padding-top: 2vw;
+
+}
+
+
+
+.box .input-wraper h2 {
+    font-size: 2.5vw;
+    opacity: .6;
+}
+
+.box .input-wraper button {
+    background-color: rgb(39, 39, 216);
+    color: white;
+    position: absolute;
+    right: 5%;
+    top: 71%;
+    font-size: 1vw;
+}
+
+.box .mini-container #mini-box-2 {
+  
+    height: 9vw;
+    width: 6vw;
+   
+}
+
+#box-3 .box-3-wrapper {
+  
+    gap: 4vw;
+    padding: 1vw 0;
+}
+
+#box-3 .video-player {
+    height: 18vw;
+    width: 17vw;
+    font-size: 2vw;
+   
+}
+
+#box-3 button {
+    font-size: 2.4vw;
+}
+
+.box-container h2 {
+    font-size: 2.5vw;
+    margin-top: 1vw;
+}
+
+
+.box-container h4 {
+    font-size: 1.6vw;
+   
+}
+
+#box-3 h3 {
+    font-size: 2.4vw;
+}
+
+
+#page-3 {
+    height: 50vh;
+    width: 100%;
+    gap: 2.5vw;
+}
+
+
+#page-3 button {
+    font-size: 4vw;    
+}
+
+
+footer {
+    height: 20vh;
+}
+
+
+.footer-col-1 p {
+    font-size: 1.5vw;
+}
+
+.footer-col-1 h3 {
+    font-size: 3.6vw;
+}
+
+.footer-col-2 a {
+    font-size: 2.3vw;
+}
+
+
+
+.footer-col-2 h2 {
+    font-size: 2.5vw;
+}
+
+.footer-col-3 h2 {
+    font-size: 2.5vw;
+}
+
+.footer-col-4 h2 {
+    font-size: 2.5vw;
+}
+
+.footer-col-3 a {
+    font-size: 2.5vw;
+}
+
+.footer-col-4 {
+    margin-bottom: 1.5vw;
+}
+
+.footer-col-4 a {
+    font-size: 2.5vw;
+}
+
+
+.footer-container {
+    height: 6vw;
+    margin-top: 1.5vw;
+}
+
+.footer-container h1 {
+    font-size: 1.5vw;
+    white-space: nowrap;
+
+}
+
+.footer-part-1 a {
+    font-size: 2.2vw;
+}
+
+
+.footer-part-2 i {
+    font-size: 3vw;
+    color: #f2f2f2;
+}
+
+
+
+}
